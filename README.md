@@ -13,12 +13,12 @@
 7. Add extension Cucumber (Gherkin) Full Support
 
 ***To run the scripts***
- npx cypress open
- Click on Configuration - E2E testing
- Select the browser
- Start E2E testing
- Select the feature
- The test loads and you can see the execution steps
+1.  npx cypress open
+ 2. Click on Configuration - E2E testing
+ 3. Select the browser
+ 4. Start E2E testing
+ 5. Select the feature
+ 6. The test loads and you can see the execution steps
 
 
  
